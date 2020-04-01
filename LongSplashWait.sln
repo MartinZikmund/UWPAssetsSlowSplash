@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoAssets", "NoAssets.csproj", "{A1DB15B6-FDB5-41B3-98AE-EBB03FCAB6CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoAssets", "NoAssets\NoAssets.csproj", "{A1DB15B6-FDB5-41B3-98AE-EBB03FCAB6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyAssets", "..\ManyAssets\ManyAssets.csproj", "{37D417FB-C560-4C95-8482-22E304CC704D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyAssets", "ManyAssets\ManyAssets.csproj", "{37D417FB-C560-4C95-8482-22E304CC704D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
